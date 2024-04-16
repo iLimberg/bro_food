@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title:
+title: Bro Food notes
 email: "mailto:onthegrill@yandex.ru"
 description: >- # this means to ignore newlines until "baseurl:"
   Личный блог  с кулинарными рецкптами и рекомендациями. Пополняю, когда есть время.
@@ -88,7 +88,7 @@ footer:
 
 defaults:
   # _posts
-   - scope:
+  - scope:
       path: ""
       type: posts
     values:
@@ -99,13 +99,13 @@ defaults:
       share: true
       related: true
   # _pages
-    classes: wide
   - scope:
       path: "_pages"
       type: pages
     values:
       layout: single
       author_profile: true
+  - classes: wide    
 
 category_archive:
   type: liquid
