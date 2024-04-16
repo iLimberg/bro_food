@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Bro Food notes
-email: onthegrill@yandex.ru
+email: "mailto:onthegrill@yandex.ru"
 description: >- # this means to ignore newlines until "baseurl:"
   Личный блог  с кулинарными рецкптами и рекомендациями. Пополняю, когда есть время.
-Telegram: @limberg_ilya
+Telegram: "limberg_ilya"
 minimal_mistakes_skin: default
 search: true
 locale: "ru-RU"
