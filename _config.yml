@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Илья Лимберг"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Как нить потом напишу."
+  bio    : "Как нить потом напишу"
   links:
     - label: "BRO_music"
       icon: "fab fa-fw fa-telegram"
