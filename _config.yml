@@ -88,8 +88,7 @@ footer:
 
 defaults:
   # _posts
-    classes: wide
-  - scope:
+   - scope:
       path: ""
       type: posts
     values:
@@ -100,6 +99,7 @@ defaults:
       share: true
       related: true
   # _pages
+    classes: wide
   - scope:
       path: "_pages"
       type: pages
