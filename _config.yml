@@ -19,8 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-BRO_music (TG): https://t.me/+DcWtGWbdjOU4OWIy
-TG: @limberg_ilya
+Telegram: @limberg_ilya
 minimal_mistakes_skin: default
 search: true
 
@@ -58,22 +57,19 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Илья Лимберг"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Как нить потом напишу."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+    - label: "BRO_music"
+      icon: "fab fa-fw fa-telegram"
+      url: "https://t.me/+DcWtGWbdjOU4OWIy"
+    - label: "Telegram"
+      icon: "fab fa-fw fa-telegram"
+      url: "https://t.me/@limberg_ilya"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/its_limberg"
 
 footer:
   links:
