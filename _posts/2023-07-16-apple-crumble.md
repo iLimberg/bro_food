@@ -2,12 +2,11 @@
 title:  "Apple Crumble"
 categories: [ Десерт ]
 tags: [ яблоки ]
-description: Классический британский рецепт.
 ---
 
 **Уровень сложности**: Не сложно
 
-<img class="main_post_image" src="assets/images/post-sause.jpg" width="1280" height="720" alt="соусы">
+<img class="main_post_image" src="/assets/images/apple-crumble.jpg" width="1280" height="720" alt="яблочный крамбл">
 
 ### Ингредиенты для основы  
 
