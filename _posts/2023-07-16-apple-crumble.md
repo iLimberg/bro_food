@@ -24,7 +24,7 @@ header:
     </tr>
     <tr>
       <td>Корица</td>
-      <td>1 ч/л/td>
+      <td>1 ч/л/</td>
     </tr>
   </tbody>
 </table>
