@@ -94,7 +94,7 @@ collections:
 
 defaults:
   # _posts
-  teaser: /assets/images/default_teaser.jpg
+  
   - scope:
       path: ""
       type: posts
@@ -106,6 +106,7 @@ defaults:
       read_time: true
       share: true
       related: true
+      teaser: "/assets/images/default_teaser.jpg"
   
   # _portfolio
   - scope:
