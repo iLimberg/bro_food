@@ -55,7 +55,11 @@ body {
     width: 100%;
     clear: both;
 
-    .page__content,
+    .page__content
+    // My change for images
+      .header_post_image {
+        border-radius: 5%;
+      },
     .page__meta,
     .page__share {
       position: relative;
@@ -262,11 +266,6 @@ body {
     color: #fff;
     text-decoration: none;
   }
-}
-
-// My change for images
-.header_post_image {
-  border-radius: 5%;
 }
 
 /*
