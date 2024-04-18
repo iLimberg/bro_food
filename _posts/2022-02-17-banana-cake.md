@@ -1,42 +1,57 @@
 ---
-layout: single
 title:  "Банановый кекс"
 categories: [ Десерт, Выпечка ]
 tags: [бананы, орехи, десерт, кекс]
-image: assets/images/banana_cake.jpg
-description: Офигенный рецепт простого бананового кекса!
+header:
+  teaser: /assets/images/banana_cake.jpg
 ---
 
 **Уровень сложности**: Легко
 
+<img class="header_post_image" src="/assets/images/banana_cake.jpg" width="1000" height="563" alt="Банановый_кекс">
+
 ### Ингридиенты:
 
 <table>
-    <thead>
-      <tr>
-        <th>Мука</th>
-        <th>Разрыхлитель</th>
-        <th>Соль</th>
-        <th>Сливочное масло</th>
-        <th>Сахар</th>
-        <th>Изюм мклкий</th>
-        <th>Грецкий орех</th>
-        <th>Курага</th>
-        <th>Яйца</th>
-        <th>Бананы</th>
-      </tr>
-    </thead>
     <tbody>
       <tr>
+        <td>Мука</td>
+        <td>2 ст/л</td>
+      </tr>
+      <tr>
+        <td>Разрыхлитель</td>
         <td>225 г.</td>
+      </tr>
+      <tr>
+        <td>Соль</td>
         <td>2 ч.л.</td>
+      </tr>
+      <tr>
+        <td>Сливочное масло</td>
         <td>1/2 ч.л.</td>
+      </tr>
+      <tr>
+        <td>Сахар</td>
         <td>100 г.</td>
-        <td>175 г.</td>
+      </tr>
+      <tr>
+        <td>Изюм мклкий</td>
         <td>100 г.</td>
+      </tr>
+      <tr>
+        <td>Грецкий орех</td>
         <td>25 г.</td>
+      </tr>
+      <tr>
+        <td>Курага</td>
         <td>100 г.</td>
+      </tr>
+      <tr>
+        <td>Яйца</td>
         <td>4 шт.</td>
+      </tr>
+      <tr>
+        <td>Бананы</td>
         <td>450 г.</td>
       </tr>
     </tbody>

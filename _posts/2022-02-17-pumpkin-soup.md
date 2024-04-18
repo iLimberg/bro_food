@@ -1,15 +1,14 @@
 ---
-layout: post
 title:  "Пряный тыквенный крем-суп"
 categories: [ Обед, Суп ]
 tags: [ тыква, курица ]
-image: assets/images/pumpkin-soup.jpg
-description: Вкуснее этого супа не существует
-featured: true
-hidden: true
+header:
+  teaser: /assets/images/pumpkin-soup.jpg
 ---
 
-**Уровень сложности**: Не сложно
+**Уровень сложности**: Не сложно, просто пробуйте все на вкус
+
+<img class="header_post_image" src="/assets/images/pumpkin-soup.jpg" width="1000" height="563" alt="Пряный_тыквенный_крем-суп">
 
 Чтобы тыквенный суп стал вкусный, важно взять правильный сорт тыквы, бахнуть нужное количество специй и пробовать то, что готовишь.
 
