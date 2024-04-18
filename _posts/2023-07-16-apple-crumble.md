@@ -2,11 +2,13 @@
 title:  "Apple Crumble"
 categories: [ Десерт ]
 tags: [ яблоки ]
+header:
+  teaser: /assets/images/apple-crumble.jpg
 ---
 
 **Уровень сложности**: Не сложно
 
-<img class="main_post_image" src="/assets/images/apple-crumble.jpg" width="1000" height="563" alt="яблочный крамбл">
+<img class="header_post_image" src="/assets/images/apple-crumble.jpg" width="1000" height="563" alt="яблочный крамбл">
 
 ### Ингредиенты для основы  
 

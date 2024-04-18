@@ -63,7 +63,7 @@ masthead_title: "BRO Food"
 author:
   name   : "Илья Лимберг"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Как нить потом напишу"
+  bio    : 
   links:
     - label: "BRO_music"
       icon: "fab fa-fw fa-telegram"
@@ -94,6 +94,7 @@ collections:
 
 defaults:
   # _posts
+  teaser: /assets/images/default_teaser.jpg
   - scope:
       path: ""
       type: posts
