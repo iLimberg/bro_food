@@ -58,7 +58,7 @@ plugins:
 
 # Logo & text
 logo: "assets/images/logo.png"
-masthead_title: "BRO Food"
+masthead_title: "Food"
 
 author:
   name   : "Илья Лимберг"
