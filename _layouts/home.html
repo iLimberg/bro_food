@@ -1,6 +1,7 @@
 ---
 layout: collection
 entries_layout: grid
+class: wide
 ---
 
 {{ content }}
@@ -13,8 +14,8 @@ entries_layout: grid
   {% assign posts = site.posts %}
 {% endif %}
 
-{% assign entries_layout = page.entries_layout | default: 'list' %}
-<div class="entries-{{ entries_layout }}">
+{% assign entries_layout = page.entries_layout | default: 'grid' %}
+<div class="entries-{{ entries_layout: grid }}">
   {% for post in posts %}
     {% include archive-single.html type=entries_layout %}
   {% endfor %}
