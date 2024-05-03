@@ -1,6 +1,6 @@
 ---
 title:  "Французские тосты"
-categories: [ Завтрак ]
+categories: [ завтрак ]
 tags: [хлеб]
 header:
   teaser: /assets/images/toast.jpeg

@@ -1,6 +1,6 @@
 ---
 title:  "Банановый кекс"
-categories: [ Десерт, Выпечка ]
+categories: [ десерт, выпечка ]
 tags: [бананы, орехи, десерт, кекс]
 header:
   teaser: /assets/images/banana_cake.jpg

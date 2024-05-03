@@ -1,6 +1,6 @@
 ---
 title:  "Тыквенный пирог"
-categories: [ Дессерт ]
+categories: [ дессерт ]
 tags: [ тыква, пирог]
 header:
   teaser: /assets/images/pumpking-pie.jpeg

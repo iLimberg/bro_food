@@ -1,6 +1,6 @@
 ---
 title:  "Пряный тыквенный крем-суп"
-categories: [ Обед, Суп ]
+categories: [ обед, суп ]
 tags: [ тыква, курица ]
 header:
   teaser: /assets/images/pumpkin-soup.jpg

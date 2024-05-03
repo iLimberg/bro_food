@@ -1,6 +1,6 @@
 ---
 title:  "Apple Crumble"
-categories: [ Десерт ]
+categories: [ десерт ]
 tags: [ яблоки ]
 header:
   teaser: /assets/images/apple-crumble.jpg
